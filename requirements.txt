@@ -1,13 +1,13 @@
-pip==25.1.1  # or the latest version of pip
-streamlit==1.35.0
+streamlit==1.18.0
+spacy==3.3.1
+indic-nlp-library==0.0.1
+neuralcoref==4.0
+transformers==4.11.3
+networkx==2.6.3
+matplotlib==3.4.3
 langdetect==1.0.9
-nltk==3.8.1
-spacy==3.7.4
-transformers==4.28.1
-torch==2.3.0   # Compatible torch version for Python 3.12
-pandas==2.2.2
-networkx==3.3
-matplotlib==3.9.0
+nltk==3.6.3
+
 
 
 
